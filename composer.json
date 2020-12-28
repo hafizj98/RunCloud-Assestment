@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "classes/User.php",
+            "classes/Server.php",
+            "classes/BasicPlan.php",
+            "classes/ProPlan.php",
+            "interfaces/Plan.php"
+        ]
+    }
+}
